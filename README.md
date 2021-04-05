@@ -1,0 +1,2 @@
+# mines
+Try your luck
